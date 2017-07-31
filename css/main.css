@@ -6,6 +6,7 @@ header{
 
 header h1{
 	font-size: 100px;
+	color: red;
 }
 
 header h2{
@@ -99,8 +100,3 @@ header{
 #about h2{
 	font-family:bebas neue;
 }
-
-
-
-
-
