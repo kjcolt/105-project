@@ -1,0 +1,106 @@
+/** Header **/
+header{
+	font-family:Bebas neue;
+	color:white;
+}
+
+header h1{
+	font-size: 100px;
+}
+
+header h2{
+	font-size: 75px;
+}
+
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+header{
+	height:800px;
+	background-image:url("../img/Keyboard.jpg");
+	background-size:cover;
+}
+
+#about,#work, #contact{
+	height:600px;
+}
+
+#skills{
+	height:400px;
+}
+
+.full-width{
+	width:1200px;
+	margin:auto;
+}
+
+.half-width{
+	width:600px;
+	float:left;
+}
+
+.third-width{
+	width:400px;
+	float:left;
+}
+
+#skills h3{
+	font-family:Bebas neue;
+	font-size:45px;
+}
+
+#skills h1{
+	font-family:bebas neue;
+	font-size:50px;
+}
+
+#skills{
+	background-color:#ECEDF0;
+}
+
+#skills h1{
+	text-align: center;
+}
+
+.third-width{
+	text-align:center;
+}
+
+/** Work **/
+
+#work{
+	display:flex;
+}
+
+#work .full-width{
+	margin:20px;
+}
+
+#work img{
+	width:350px;
+	height:auto;
+}
+
+#work p{
+	margin:20px;
+}
+
+#about img{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+	height:auto;
+
+}
+
+#about h2{
+	font-family:bebas neue;
+}
+
+
+
+
+
